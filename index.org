@@ -1,0 +1,143 @@
+#+TITLE: Differentiable Manifolds I, Math 518, Fall 2022
+  
+* Basic information
+
+  - *Lectures:* MWF 9:00--9:50am in 141 Altgeld Hall.
+
+  - *Instructor:* [[http://pascaleff.com][James Pascaleff]]
+    + *Email:* [[mailto:jpascale@illinois.edu][jpascale@illinois.edu]]; *Office:* 357 Altgeld Hall; *Phone:* (217) 244-7277.
+    + *Office hours:* TBD.
+
+  - *Course website:* 
+
+  - *Prerequisites:* Multivariable calculus. (Officially: MATH 423 or MATH 481, or consent of instructor.)
+
+  - *Texts:* We shall follow the [[https://faculty.math.illinois.edu/~ruiloja/Meus-papers/HTML/notesDG.pdf][lecture notes on Differential Geometry]] by Rui Loja Fernandes. Two recommended textbooks are
+    + John M. Lee, /Introduction to Smooth Manifolds/, Springer Graduate Texts in Mathematics volume 218. A full-text PDF is available through the UIUC Library.
+    + Michael Spivak, /A Comprehensive Introduction to Differential Geometry, Volume 1/.
+    
+  - *Final Exam:* Date and time TBD.
+
+* Course outline
+
+  - *Description:* Differentiable manifolds are a class of spaces that
+    includes Euclidean spaces, smooth curves and surfaces in 3-space,
+    higher-dimensional generalizations such as the n-dimensional
+    spheres, and infinitely much more. Manifolds locally look like open
+    sets in Euclidean space, but they may have a nontrivial global
+    topology. A differentiable manifold is one where, at least locally,
+    we can "do multivariable calculus" in a meaningful way. This local
+    structure has consequences for the global topology. Even for
+    Euclidean spaces (whose global topology is trivial) the theory of
+    manifolds provides a new perspective on geometry that vastly
+    generalizes traditional Euclidean geometry in multiple directions.
+
+    The foundations of differentiable manifolds are not particularly
+    simple, but they support a theory that has a lot of intuitive
+    appeal. One goal of this course is to convey both the technical
+    foundations and the intuitive picture.
+
+  - *Lectures:* Lectures will be held in person.
+
+  - *Assessment:* Grades will be based on homework (25%), a midterm
+    exams (25%), and the final exam (50%). The two lowest homework
+    scores will be dropped.
+
+  - *Homework:* There will be weekly homework assignments whose due
+    dates are listed in the schedule. Homework should be submitted on
+    paper in class. If you are unable to come to class, you may turn
+    in your homework to James Pascaleff's mailbox in the mailroom, 250
+    Altgeld Hall.
+
+  - *Exams:* There will be one midterm exam and a final exam. The
+    midterm exam will be held in class TBD. The final exam date and
+    time are TBD.
+
+* Policies
+
+  - *Collaboration and Academic Integrity:* For homework assignments,
+    collaboration is permitted and expected, but you must write up
+    your solutions individually and understand them completely. On
+    exams, no collaboration is permitted.
+
+  - *Disability accommodations:* Students who require special
+    accommodations should contact the instructor as soon as
+    possible. Any accommodations on exams must be requested at least
+    one week in advance and will require a letter from DRES.
+
+* Homework assignments
+
+  - To be posted.
+
+* Schedule
+
+  | Week №  | Dates            | Lectures for the week |
+  |---------+------------------+-----------------------|
+  | Week 1  | [2022-08-22 Mon] |                       |
+  |         | [2022-08-24 Wed] |                       |
+  |         | [2022-08-26 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 2  | [2022-08-29 Mon] |                       |
+  |         | [2022-08-31 Wed] |                       |
+  |         | [2022-09-02 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 3  | [2022-09-05 Mon] | Labor day             |
+  |         | [2022-09-07 Wed] |                       |
+  |         | [2022-09-09 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 4  | [2022-09-12 Mon] |                       |
+  |         | [2022-09-14 Wed] |                       |
+  |         | [2022-09-16 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 5  | [2022-09-19 Mon] |                       |
+  |         | [2022-09-21 Wed] |                       |
+  |         | [2022-09-23 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 6  | [2022-09-26 Mon] |                       |
+  |         | [2022-09-28 Wed] |                       |
+  |         | [2022-09-30 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 7  | [2022-10-03 Mon] |                       |
+  |         | [2022-10-05 Wed] |                       |
+  |         | [2022-10-07 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 8  | [2022-10-10 Mon] |                       |
+  |         | [2022-10-12 Wed] |                       |
+  |         | [2022-10-14 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 9  | [2022-10-17 Mon] |                       |
+  |         | [2022-10-19 Wed] |                       |
+  |         | [2022-10-21 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 10 | [2022-10-24 Mon] |                       |
+  |         | [2022-10-26 Wed] |                       |
+  |         | [2022-10-28 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 11 | [2022-10-31 Mon] |                       |
+  |         | [2022-11-02 Wed] |                       |
+  |         | [2022-11-04 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 12 | [2022-11-07 Mon] |                       |
+  |         | [2022-11-09 Wed] |                       |
+  |         | [2022-11-11 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 13 | [2022-11-14 Mon] |                       |
+  |         | [2022-11-16 Wed] |                       |
+  |         | [2022-11-18 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 14 | [2022-11-21 Mon] | Fall break            |
+  |         | [2022-11-23 Wed] | Fall break            |
+  |         | [2022-11-25 Fri] | Fall break            |
+  |---------+------------------+-----------------------|
+  | Week 15 | [2022-11-28 Mon] |                       |
+  |         | [2022-11-30 Wed] |                       |
+  |         | [2022-12-02 Fri] |                       |
+  |---------+------------------+-----------------------|
+  | Week 16 | [2022-12-05 Mon] |                       |
+  |         | [2022-12-07 Wed] |                       |
+  |         | [2022-12-08 Thu] | Reading day           |
+  |         | [2022-12-09 Fri] | First day of finals   |
+  |---------+------------------+-----------------------|
+  | Week 17 | [2022-12-16 Fri] | Last day of finals    |
+  |         |                  |                       |
+
