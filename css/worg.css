@@ -156,6 +156,10 @@ content: "*** "
 	color: #006666;
     }
 
+    .timestamp {
+	color: #E84A27;
+    }
+
     .timestamp-kwd {
 	color: #444;
     }
@@ -169,15 +173,21 @@ content: "*** "
     }
 
     table {
-	border: none;
+	border: 1px solid black;
     }
 
+    tbody {
+	border: 1px solid black;
+    }
+    
     td {
-	border: none;
+	/* border: 1px solid black; */
+	padding: 5px;
     }
 
     th {
-	border: none;
+	border: 1px solid black;
+	padding: 5px;
     }
 
     code {
