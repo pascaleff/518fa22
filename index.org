@@ -24,7 +24,7 @@
 
   - *Description:* Differentiable manifolds are a class of spaces that
     includes Euclidean spaces, smooth curves and surfaces in 3-space,
-    higher-dimensional generalizations such as the $n$-dimensional
+    higher-dimensional generalizations such as the $n$ dimensional
     spheres, and infinitely much more. Manifolds locally look like open
     sets in Euclidean space, but they may have a nontrivial global
     topology. A differentiable manifold is one where, at least locally,
