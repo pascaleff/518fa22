@@ -8,7 +8,7 @@
     + *Email:* [[mailto:jpascale@illinois.edu][jpascale@illinois.edu]]; *Office:* 357 Altgeld Hall; *Phone:* (217) 244-7277.
     + *Office hours:* TBD.
 
-  - *Course website:* 
+  - *Course website:* https://pascaleff.github.io/518fa22/
 
   - *Prerequisites:* Multivariable calculus. (Officially: MATH 423 or MATH 481, or consent of instructor.)
 
