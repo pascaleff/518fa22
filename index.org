@@ -85,7 +85,7 @@
   | Week №  | Dates            | Topics/Comments                                                     |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 1  | [2022-08-22 Mon] | Welcome, historical intro, diffeomorphic subsets of Euclidean space |
-  |         | [2022-08-24 Wed] | 0. Manifolds as subsets of Euclidean space                          |
+  |         | [2022-08-24 Wed] | Examples of smooth manifolds in Euclidean space                     |
   |         | [2022-08-26 Fri] | 1. Abstract manifolds                                               |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 2  | [2022-08-29 Mon] | 2. Manifolds with boundary                                          |
