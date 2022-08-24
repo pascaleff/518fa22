@@ -73,7 +73,9 @@
     Topology]] by John Milnor. Many of the ideas presented in these
     lectures will be covered in this course.
 
-  - To be posted.
+  - *Homework 1 due Friday, September 2*
+    + Fernandes, p. 11: problems 4, 5.
+    + Fernandes, p. 18-19: problems 1, 4, 5, 7, 9.
 
 * Schedule
   This schedule is a tentative outline of the topics that we will cover. 
