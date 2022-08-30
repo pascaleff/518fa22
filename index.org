@@ -86,11 +86,11 @@
   |---------+------------------+---------------------------------------------------------------------|
   | Week 1  | [2022-08-22 Mon] | Welcome, historical intro, diffeomorphic subsets of Euclidean space |
   |         | [2022-08-24 Wed] | Examples of smooth manifolds in Euclidean space                     |
-  |         | [2022-08-26 Fri] | 1. Abstract manifolds                                               |
+  |         | [2022-08-26 Fri] | Abstract topological manifolds                                      |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 2  | [2022-08-29 Mon] | 2. Manifolds with boundary                                          |
-  |         | [2022-08-31 Wed] | 3. Partitions of unity                                              |
-  |         | [2022-09-02 Fri] |                                                                     |
+  | Week 2  | [2022-08-29 Mon] | Abstract smooth manifolds                                           |
+  |         | [2022-08-31 Wed] | 2. Manifolds with boundary                                          |
+  |         | [2022-09-02 Fri] | 3. Partitions of unity                                              |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 3  | [2022-09-05 Mon] | Labor day                                                           |
   |         | [2022-09-07 Wed] | 4. The tangent space                                                |
