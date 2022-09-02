@@ -89,16 +89,16 @@
   |         | [2022-08-26 Fri] | Abstract topological manifolds                                      |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 2  | [2022-08-29 Mon] | Abstract smooth manifolds                                           |
-  |         | [2022-08-31 Wed] | 2. Manifolds with boundary                                          |
-  |         | [2022-09-02 Fri] | 3. Partitions of unity                                              |
+  |         | [2022-08-31 Wed] | Manifolds with boundary                                             |
+  |         | [2022-09-02 Fri] | Partitions of unity                                                 |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 3  | [2022-09-05 Mon] | Labor day                                                           |
-  |         | [2022-09-07 Wed] | 4. The tangent space                                                |
-  |         | [2022-09-09 Fri] | 5. The differential                                                 |
+  |         | [2022-09-07 Wed] | 3. Partitions of unity, cont'd.                                     |
+  |         | [2022-09-09 Fri] | 4. The tangent space                                                |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 4  | [2022-09-12 Mon] | 6. Immersions, submersions, and submanifolds                        |
-  |         | [2022-09-14 Wed] | 7. Embeddings and Whitney's theorem                                 |
-  |         | [2022-09-16 Fri] |                                                                     |
+  | Week 4  | [2022-09-12 Mon] | 5. The differential                                                 |
+  |         | [2022-09-14 Wed] | 6. Immersions, submersions, and submanifolds                        |
+  |         | [2022-09-16 Fri] | 7. Embeddings and Whitney's theorem                                 |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 5  | [2022-09-19 Mon] | 8. Foliations                                                       |
   |         | [2022-09-21 Wed] | 9. Quotients                                                        |
