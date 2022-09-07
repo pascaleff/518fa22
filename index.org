@@ -9,6 +9,7 @@
     + *Office hours:* Wednesdays 12:00--2:00pm.
 
   - *Course website:* https://pascaleff.github.io/518fa22/
+    + *Canvas website with gradebook:* https://canvas.illinois.edu/courses/31938
 
   - *Prerequisites:* Multivariable calculus. (Officially: MATH 423 or MATH 481, or consent of instructor.)
 
@@ -68,6 +69,7 @@
     one week in advance and will require a letter from DRES.
 
 * Homework assignments
+  - Grades may be viewed on the [[https://canvas.illinois.edu/courses/31938][Canvas website]].
 
   - Optional homework: Watch this [[http://www.math.stonybrook.edu/Videos/IMS/Differential_Topology/][series of lectures on Differential
     Topology]] by John Milnor. Many of the ideas presented in these
@@ -97,7 +99,7 @@
   |         | [2022-09-02 Fri] | Partitions of unity                                                 |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 3  | [2022-09-05 Mon] | Labor day                                                           |
-  |         | [2022-09-07 Wed] | 3. Partitions of unity, cont'd.                                     |
+  |         | [2022-09-07 Wed] | Partitions of unity, cont'd.                                        |
   |         | [2022-09-09 Fri] | 4. The tangent space                                                |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 4  | [2022-09-12 Mon] | 5. The differential                                                 |
