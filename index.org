@@ -86,6 +86,10 @@
   - *Homework 3 due Friday, September 16*
     + Fernandes, p. 35: 1, 2, 3, 4, 5 (all problems).
 
+  - *Homework 4 due Friday, September 23*
+    + Fernandes, p. 38: 1, 2, 3, 4, 5.
+    + Fernandes, p. 46: 1, 3, 5. 
+
 * Schedule
   This schedule is a tentative outline of the topics that we will cover. 
   Section numbers refer to [[https://faculty.math.illinois.edu/~ruiloja/Meus-papers/HTML/notesDG.pdf][Fernandes' notes]].
@@ -103,57 +107,57 @@
   |---------+------------------+---------------------------------------------------------------------|
   | Week 3  | [2022-09-05 Mon] | Labor day                                                           |
   |         | [2022-09-07 Wed] | Partitions of unity, cont'd.                                        |
-  |         | [2022-09-09 Fri] | 4. The tangent space                                                |
+  |         | [2022-09-09 Fri] | Tangent vectors                                    |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 4  | [2022-09-12 Mon] | 5. The differential                                                 |
-  |         | [2022-09-14 Wed] | 6. Immersions, submersions, and submanifolds                        |
-  |         | [2022-09-16 Fri] | 7. Embeddings and Whitney's theorem                                 |
+  | Week 4  | [2022-09-12 Mon] | Tangent vectors as derivations                 |
+  |         | [2022-09-14 Wed] | Tangent spaces                                                      |
+  |         | [2022-09-16 Fri] | The differential of a map                                           |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 5  | [2022-09-19 Mon] | 8. Foliations                                                       |
-  |         | [2022-09-21 Wed] | 9. Quotients                                                        |
+  | Week 5  | [2022-09-19 Mon] | 5. The differential, cont'd.                                                             |
+  |         | [2022-09-21 Wed] | 6. Immersions, submersions, and submanifolds                        |
   |         | [2022-09-23 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 6  | [2022-09-26 Mon] | 10. Vector fields and flows                                         |
-  |         | [2022-09-28 Wed] | 11. Lie bracket and Lie derivative                                  |
+  | Week 6  | [2022-09-26 Mon] | 7. Embeddings and Whitney's theorem                                 |
+  |         | [2022-09-28 Wed] | 8. Foliations                                                       |
   |         | [2022-09-30 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 7  | [2022-10-03 Mon] | 12. Distributions and the Frobenius theorem                         |
+  | Week 7  | [2022-10-03 Mon] | 9. Quotients                                                        |
   |         | [2022-10-05 Wed] | *Midterm exam*                                                      |
-  |         | [2022-10-07 Fri] | 13. Lie groups and Lie algebras                                     |
+  |         | [2022-10-07 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 8  | [2022-10-10 Mon] | 14. Integrations of Lie algebras                                    |
-  |         | [2022-10-12 Wed] | 15. The exponential map                                             |
+  | Week 8  | [2022-10-10 Mon] | 10. Vector fields and flows                                         |
+  |         | [2022-10-12 Wed] | 11. Lie bracket and Lie derivative                                  |
   |         | [2022-10-14 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 9  | [2022-10-17 Mon] | 16. Groups of transformations                                       |
-  |         | [2022-10-19 Wed] | 17. Differential forms and tensor fields                            |
+  | Week 9  | [2022-10-17 Mon] | 12. Distributions and the Frobenius theorem                         |
+  |         | [2022-10-19 Wed] | 13. Lie groups and Lie algebras                                     |
   |         | [2022-10-21 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 10 | [2022-10-24 Mon] | 18. Differential and Cartan calculus                                |
-  |         | [2022-10-26 Wed] | 19. Integration on manifolds                                        |
+  | Week 10 | [2022-10-24 Mon] | 14. Integrations of Lie algebras                                    |
+  |         | [2022-10-26 Wed] | 15. The exponential map                                             |
   |         | [2022-10-28 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 11 | [2022-10-31 Mon] | 20. de Rham cohomology                                              |
-  |         | [2022-11-02 Wed] | 21. The de Rham theorem                                             |
+  | Week 11 | [2022-10-31 Mon] | 16. Groups of transformations                                       |
+  |         | [2022-11-02 Wed] | 17. Differential forms and tensor fields                            |
   |         | [2022-11-04 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 12 | [2022-11-07 Mon] | 22. Homotopy invariance and Mayer-Vietoris sequence                 |
-  |         | [2022-11-09 Wed] | 23. Computations in cohomology                                      |
+  | Week 12 | [2022-11-07 Mon] | 18. Differential and Cartan calculus                                |
+  |         | [2022-11-09 Wed] | 19. Integration on manifolds                                        |
   |         | [2022-11-11 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 13 | [2022-11-14 Mon] | 24. The degree and the index                                        |
-  |         | [2022-11-16 Wed] |                                                                     |
+  | Week 13 | [2022-11-14 Mon] | 20. de Rham cohomology                                              |
+  |         | [2022-11-16 Wed] | 21. The de Rham theorem                                             |
   |         | [2022-11-18 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 14 | [2022-11-21 Mon] | Fall break                                                          |
   |         | [2022-11-23 Wed] | Fall break                                                          |
   |         | [2022-11-25 Fri] | Fall break                                                          |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 15 | [2022-11-28 Mon] |                                                                     |
-  |         | [2022-11-30 Wed] |                                                                     |
+  | Week 15 | [2022-11-28 Mon] | 22. Homotopy invariance and Mayer-Vietoris sequence                 |
+  |         | [2022-11-30 Wed] | 23. Computations in cohomology                                      |
   |         | [2022-12-02 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 16 | [2022-12-05 Mon] |                                                                     |
+  | Week 16 | [2022-12-05 Mon] | 24. The degree and the index                                        |
   |         | [2022-12-07 Wed] |                                                                     |
   |         | [2022-12-08 Thu] | Reading day                                                         |
   |         | [2022-12-09 Fri] | First day of finals                                                 |
