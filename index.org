@@ -117,9 +117,9 @@
   |         | [2022-09-14 Wed] | Tangent spaces                                                      |
   |         | [2022-09-16 Fri] | The differential of a map                                           |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 5  | [2022-09-19 Mon] | 5. The differential, cont'd.                                                             |
-  |         | [2022-09-21 Wed] | 6. Immersions, submersions, and submanifolds                        |
-  |         | [2022-09-23 Fri] |                                                                     |
+  | Week 5  | [2022-09-19 Mon] | The differential, cont'd.                                                                |
+  |         | [2022-09-21 Wed] | Immersions, submersions, and submanifolds                           |
+  |         | [2022-09-23 Fri] | Submanifolds, cont'd.                                               |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 6  | [2022-09-26 Mon] | 7. Embeddings and Whitney's theorem                                 |
   |         | [2022-09-28 Wed] | 8. Foliations                                                       |
