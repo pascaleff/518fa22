@@ -53,7 +53,7 @@
     Altgeld Hall.
 
   - *Exams:* There will be one midterm exam and a final exam. The
-    midterm exam will be held in class TBD. The final exam date and
+    midterm exam will be held in class on *5 October*. The final exam date and
     time are TBD.
 
 * Policies
@@ -111,22 +111,22 @@
   |---------+------------------+---------------------------------------------------------------------|
   | Week 3  | [2022-09-05 Mon] | Labor day                                                           |
   |         | [2022-09-07 Wed] | Partitions of unity, cont'd.                                        |
-  |         | [2022-09-09 Fri] | Tangent vectors                                    |
+  |         | [2022-09-09 Fri] | Tangent vectors                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 4  | [2022-09-12 Mon] | Tangent vectors as derivations                 |
+  | Week 4  | [2022-09-12 Mon] | Tangent vectors as derivations                                      |
   |         | [2022-09-14 Wed] | Tangent spaces                                                      |
   |         | [2022-09-16 Fri] | The differential of a map                                           |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 5  | [2022-09-19 Mon] | The differential, cont'd.                                                                |
+  | Week 5  | [2022-09-19 Mon] | The differential, cont'd.                                           |
   |         | [2022-09-21 Wed] | Immersions, submersions, and submanifolds                           |
   |         | [2022-09-23 Fri] | Submanifolds, cont'd.                                               |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 6  | [2022-09-26 Mon] | 7. Embeddings and Whitney's theorem                                 |
-  |         | [2022-09-28 Wed] | 8. Foliations                                                       |
-  |         | [2022-09-30 Fri] |                                                                     |
+  | Week 6  | [2022-09-26 Mon] | Submanifolds; critical points                                       |
+  |         | [2022-09-28 Wed] | Regular value theorem                                               |
+  |         | [2022-09-30 Fri] | Transversal intersections                                           |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 7  | [2022-10-03 Mon] | 9. Quotients                                                        |
-  |         | [2022-10-05 Wed] | *Midterm exam*                                                      |
+  | Week 7  | [2022-10-03 Mon] | Whitney's theorem                                                   |
+  |         | [2022-10-05 Wed] | *Midterm exam* covering Sections 0--6.                              |
   |         | [2022-10-07 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 8  | [2022-10-10 Mon] | 10. Vector fields and flows                                         |
