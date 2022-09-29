@@ -94,6 +94,8 @@
     + Fernandes, p. 47: 6, 7, 8, 9.
     + Fernandes, p. 54: 1, 3, 4, 5.
 
+  - There is no homework due on Friday, October 7.
+
 * Schedule
   This schedule is a tentative outline of the topics that we will cover. 
   Section numbers refer to [[https://faculty.math.illinois.edu/~ruiloja/Meus-papers/HTML/notesDG.pdf][Fernandes' notes]].
