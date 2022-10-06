@@ -96,6 +96,10 @@
 
   - There is no homework due on Friday, October 7.
 
+  - *Homework 6 due Friday, October 14*
+    + Fernandes, p. 55: 7, 8 (some ideas towards this were discussed in lecture).
+    + Fernandes, p. 82: 2, 3, 4, 5, 6.
+
 * Schedule
   This schedule is a tentative outline of the topics that we will cover. 
   Section numbers refer to [[https://faculty.math.illinois.edu/~ruiloja/Meus-papers/HTML/notesDG.pdf][Fernandes' notes]].
