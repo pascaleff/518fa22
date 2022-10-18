@@ -137,15 +137,15 @@
   |---------+------------------+---------------------------------------------------------------------|
   | Week 7  | [2022-10-03 Mon] | Whitney's theorem                                                   |
   |         | [2022-10-05 Wed] | *Midterm exam* covering Sections 0--6.                              |
-  |         | [2022-10-07 Fri] |                                                                     |
+  |         | [2022-10-07 Fri] | Vector fields                                                       |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 8  | [2022-10-10 Mon] | 10. Vector fields and flows                                         |
-  |         | [2022-10-12 Wed] | 11. Lie bracket and Lie derivative                                  |
-  |         | [2022-10-14 Fri] |                                                                     |
+  | Week 8  | [2022-10-10 Mon] | Ordinary differential equations                                     |
+  |         | [2022-10-12 Wed] | Vector fields and Flows                                             |
+  |         | [2022-10-14 Fri] | Flows cont'd.                                                       |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 9  | [2022-10-17 Mon] | 12. Distributions and the Frobenius theorem                         |
-  |         | [2022-10-19 Wed] | 13. Lie groups and Lie algebras                                     |
-  |         | [2022-10-21 Fri] |                                                                     |
+  | Week 9  | [2022-10-17 Mon] | Lie bracket and Lie derivative                                      |
+  |         | [2022-10-19 Wed] | 12. Distributions and the Frobenius theorem                         |
+  |         | [2022-10-21 Fri] | 13. Lie groups and Lie algebras                                     |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 10 | [2022-10-24 Mon] | 14. Integrations of Lie algebras                                    |
   |         | [2022-10-26 Wed] | 15. The exponential map                                             |
