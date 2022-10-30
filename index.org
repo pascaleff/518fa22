@@ -19,7 +19,7 @@
       *Homework problems may be assigned from this book.*
     + Michael Spivak, /A Comprehensive Introduction to Differential Geometry, Volume 1/.
     
-  - *Final Exam:* Date and time TBD.
+  - *Final Exam:* Monday, December 12, 2022, 8:00--11:00am in 141 Altgeld Hall.
 
 * Course outline
 
@@ -53,8 +53,9 @@
     Altgeld Hall.
 
   - *Exams:* There will be one midterm exam and a final exam. The
-    midterm exam will be held in class on *5 October*. The final exam date and
-    time are TBD.
+    midterm exam will be held in class on *5 October*. The final exam
+    will be held Monday, December 12, 2022, 8:00--11:00am in 141
+    Altgeld Hall.
 
 * Policies
 
@@ -180,5 +181,5 @@
   |         | [2022-12-08 Thu] | Reading day                                                         |
   |         | [2022-12-09 Fri] | First day of finals                                                 |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 17 | [2022-12-16 Fri] | Last day of finals                                                  |
+  | Week 17 | [2022-12-12 Mon] | Final Exam 8:00--11:00am in 141 Altgeld Hall                        |
 
