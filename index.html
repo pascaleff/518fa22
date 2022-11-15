@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2022-11-01 -->
+<!-- 2022-11-15 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Differentiable Manifolds I, Math 518, Fall 2022</title>
@@ -158,6 +158,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -186,7 +199,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -255,9 +268,9 @@ for the JavaScript code in this tag.
 <header>
 <h1 class="title">Differentiable Manifolds I, Math 518, Fall 2022</h1>
 </header>
-<section id="outline-container-org5438972" class="outline-2">
-<h2 id="org5438972">Basic information</h2>
-<div class="outline-text-2" id="text-org5438972">
+<section id="outline-container-org51f27de" class="outline-2">
+<h2 id="org51f27de">Basic information</h2>
+<div class="outline-text-2" id="text-org51f27de">
 <ul class="org-ul">
 <li><b>Lectures:</b> MWF 9:00&#x2013;9:50am in 141 Altgeld Hall.</li>
 
@@ -287,9 +300,9 @@ A full-text PDF is available through the <a href="https://www.library.illinois.e
 </div>
 </section>
 
-<section id="outline-container-org12fd12d" class="outline-2">
-<h2 id="org12fd12d">Course outline</h2>
-<div class="outline-text-2" id="text-org12fd12d">
+<section id="outline-container-org848367a" class="outline-2">
+<h2 id="org848367a">Course outline</h2>
+<div class="outline-text-2" id="text-org848367a">
 <ul class="org-ul">
 <li><p>
 <b>Description:</b> Differentiable manifolds are a class of spaces that
@@ -332,9 +345,9 @@ Altgeld Hall.</li>
 </div>
 </section>
 
-<section id="outline-container-orgf970824" class="outline-2">
-<h2 id="orgf970824">Policies</h2>
-<div class="outline-text-2" id="text-orgf970824">
+<section id="outline-container-org8411215" class="outline-2">
+<h2 id="org8411215">Policies</h2>
+<div class="outline-text-2" id="text-org8411215">
 <ul class="org-ul">
 <li><b>Collaboration and Academic Integrity:</b> For homework assignments,
 collaboration is permitted and expected, but you must write up
@@ -349,9 +362,9 @@ one week in advance and will require a letter from DRES.</li>
 </div>
 </section>
 
-<section id="outline-container-orgc253f23" class="outline-2">
-<h2 id="orgc253f23">Homework assignments</h2>
-<div class="outline-text-2" id="text-orgc253f23">
+<section id="outline-container-org0f8e05a" class="outline-2">
+<h2 id="org0f8e05a">Homework assignments</h2>
+<div class="outline-text-2" id="text-org0f8e05a">
 <ul class="org-ul">
 <li>Grades may be viewed on the <a href="https://canvas.illinois.edu/courses/31938">Canvas website</a>.</li>
 
@@ -413,13 +426,18 @@ lectures will be covered in this course.</li>
 <li>Fernandes, p. 99: 6, 7, 8, 10.</li>
 <li>Fernandes, p. 109: 1, 3, 6.</li>
 </ul></li>
+
+<li><b>Homework 10 due Wednesday, November 30</b>
+<ul class="org-ul">
+<li>Fernandes, p. 131: 1, 2, 4, 5, 6, 7, 8.</li>
+</ul></li>
 </ul>
 </div>
 </section>
 
-<section id="outline-container-org62f19af" class="outline-2">
-<h2 id="org62f19af">Schedule</h2>
-<div class="outline-text-2" id="text-org62f19af">
+<section id="outline-container-orgcfe1592" class="outline-2">
+<h2 id="orgcfe1592">Schedule</h2>
+<div class="outline-text-2" id="text-orgcfe1592">
 <p>
 This schedule is a tentative outline of the topics that we will cover. 
 Section numbers refer to <a href="https://faculty.math.illinois.edu/~ruiloja/Meus-papers/HTML/notesDG.pdf">Fernandes&rsquo; notes</a>.
