@@ -118,7 +118,6 @@
 
   - *Homework 11 due Wednesday, December 7*
     + Fernandes, p. 136: 2, 3, 5, 8 parts (a) and (b).
-    + Fernandes, p. 143: 2, 3.
 
 * Schedule
   This schedule is a tentative outline of the topics that we will cover. 
@@ -167,27 +166,27 @@
   |         | [2022-10-26 Wed] | Lie groups and Lie algebras                                         |
   |         | [2022-10-28 Fri] | The Lie algebra of a Lie group                                      |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 11 | [2022-10-31 Mon] | 15. The exponential map                                             |
-  |         | [2022-11-02 Wed] | 17. Differential forms and tensor fields                            |
+  | Week 11 | [2022-10-31 Mon] | *Class canceled*                                                    |
+  |         | [2022-11-02 Wed] | Lie theory                                                          |
   |         | [2022-11-04 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 12 | [2022-11-07 Mon] | 18. Differential and Cartan calculus                                |
-  |         | [2022-11-09 Wed] | 19. Integration on manifolds                                        |
+  | Week 12 | [2022-11-07 Mon] | The exponential map                                                 |
+  |         | [2022-11-09 Wed] |                                                                     |
   |         | [2022-11-11 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 13 | [2022-11-14 Mon] | 20. de Rham cohomology                                              |
-  |         | [2022-11-16 Wed] | 21. The de Rham theorem                                             |
+  | Week 13 | [2022-11-14 Mon] | Differential forms and tensor fields                                |
+  |         | [2022-11-16 Wed] |                                                                     |
   |         | [2022-11-18 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
   | Week 14 | [2022-11-21 Mon] | Fall break                                                          |
   |         | [2022-11-23 Wed] | Fall break                                                          |
   |         | [2022-11-25 Fri] | Fall break                                                          |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 15 | [2022-11-28 Mon] | 22. Homotopy invariance and Mayer-Vietoris sequence                 |
-  |         | [2022-11-30 Wed] | 23. Computations in cohomology                                      |
+  | Week 15 | [2022-11-28 Mon] | Differential forms cont'd.                                                   |
+  |         | [2022-11-30 Wed] | Differential and Cartan calculus                                    |
   |         | [2022-12-02 Fri] |                                                                     |
   |---------+------------------+---------------------------------------------------------------------|
-  | Week 16 | [2022-12-05 Mon] | 24. The degree and the index                                        |
+  | Week 16 | [2022-12-05 Mon] | Integration of differential forms.                          |
   |         | [2022-12-07 Wed] |                                                                     |
   |         | [2022-12-08 Thu] | Reading day                                                         |
   |         | [2022-12-09 Fri] | First day of finals                                                 |
